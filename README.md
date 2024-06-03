@@ -1,3 +1,2 @@
 # Todo-List
-Create ,delete and edit notes. 
-HTML, CSS and JAVASCRIPT
+Create , delete and edit notes. 
